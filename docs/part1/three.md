@@ -58,3 +58,6 @@ console.log(x);// [100, 23]
 <img src="../.vuepress/public/imgs/three/3-2.png">
 
 因此，输出结果很清晰的可以看出来。
+
+
+### 当函数参数默认赋值时，参数会开辟一个自己的参数作用域！！！
